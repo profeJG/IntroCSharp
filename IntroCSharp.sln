@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0EC0C0C5-1D07-4F09-876D-83B14D1796F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet.Docker", "src\App\DotNet.Docker.csproj", "{AB9BBDE7-0CDC-40DC-832A-A61DF77C14AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9BBDE7-0CDC-40DC-832A-A61DF77C14AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9BBDE7-0CDC-40DC-832A-A61DF77C14AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9BBDE7-0CDC-40DC-832A-A61DF77C14AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9BBDE7-0CDC-40DC-832A-A61DF77C14AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB9BBDE7-0CDC-40DC-832A-A61DF77C14AC} = {0EC0C0C5-1D07-4F09-876D-83B14D1796F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0624CD9E-9954-4DBF-A0E8-FE9FE35848BD}
+	EndGlobalSection
+EndGlobal

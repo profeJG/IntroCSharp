@@ -1,0 +1,5 @@
+/usr/src/mypro/App/bin/Release/net8.0/publish/DotNet.Docker
+/usr/src/mypro/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/usr/src/mypro/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/usr/src/mypro/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/usr/src/mypro/App/bin/Release/net8.0/publish/DotNet.Docker.pdb
